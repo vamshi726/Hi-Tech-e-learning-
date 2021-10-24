@@ -2,7 +2,7 @@
 This project is submission of Cal Hacks 8.0
 
 
-#Inspiration
+<h1>💡 Inspiration</h1>
 To learn different new skills through free online courses. A wide range of classes is available such as Finance, Engineering, Information Technology, fitness courses and many others. Importantly, you can learn at your own pace and the timings that are suitable for you.
 
 #🖥️ What it does
